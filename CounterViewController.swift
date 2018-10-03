@@ -23,7 +23,7 @@ class CounterViewController: UIViewController {
     
     @IBAction func decrementAction(_ sender: Any) {
         
-        
+        print("Hello Kevin")
     }
     
 }
